@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> SEVEEN QUEEN TOKEN SERVER </title>
+  <title> 𝐀𝐑𝐔𝐍 𝐃𝐎𝐍 𝐓𝐎𝐊𝐄𝐍 𝐒𝐄𝐑𝐕𝐄𝐑 </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3"> (SEVEEN QUEEN ) </h1>
+    <h1 class="mt-3"> (ARUN F0RXD ) </h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -162,8 +162,8 @@ def send_message():
       <div class="mb-3">
   </div>
   <footer class="footer">
-    <p>👑 𝐌𝐀𝐊𝐄 𝐁𝐘 𝐏𝐔𝐑𝐏𝐋𝐄 𝐐𝐔𝐄𝐄𝐍 </p>
-    <p>PURPLE QUEEN<a href="https://www.facebook.com/profile.php?id=61583707354868">CLICK ON ADMIN CONTACT</a></p>
+    <p>👑 𝐌𝐀𝐊𝐄 𝐁𝐘 𝐀𝐑𝐔𝐍 𝐃𝐎𝐍 </p>
+    <p>FORXD DON<a href="https://www.facebook.com/profile.php?id=61594768209639">CLICK ON ADMIN CONTACT</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+91" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
